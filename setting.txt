@@ -1,0 +1,23 @@
+{
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter.notebook.ipynb"
+    },
+    "workbench.settings.editor": "json",
+    "workbench.settings.openDefaultSettings": true,
+    "workbench.settings.useSplitJSON": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.editor.wrapTabs": true,
+    "python.pythonPath": "/usr/local/bin/python3",
+    "python.formatting.autopep8Path": "black",
+    "editor.formatOnSave": true,
+    "editor.parameterHints.enabled": true,
+    "code-runner.executorMap": {
+        "python": "$pythonPath -u $fullFileName",
+    },
+    "code-runner.showExecutionMessage": false,
+    "code-runner.clearPreviousOutput": true,
+    "explorer.confirmDelete": false,
+    "window.zoomLevel": 0,
+    "files.defaultLanguage": "${activeEditorLanguage}",
+    "editor.accessibilitySupport": "off",
+}
